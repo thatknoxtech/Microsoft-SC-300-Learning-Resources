@@ -7,6 +7,7 @@ This is the learning resources I used to pass the SC-300
 * John Savill's Technical Training on YouTube <-----------Priceless this is a must IMO for any MS cert
   https://www.youtube.com/playlist?list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y
   https://learn.onboardtoazure.com/ 
+  
   https://github.com/johnthebrit/CertificationMaterials <----This is forked here if you want to use it here or there doesn't matter to me
 
 * Udemy.com
